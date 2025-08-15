@@ -73,7 +73,18 @@
     "@mastra/inngest": "0.11.9"
   },
   "changesets": [
+    "bright-bikes-shout",
     "cold-bottles-fix",
-    "smooth-suns-know"
+    "cuddly-badgers-watch",
+    "cyan-paws-hunt",
+    "empty-ears-relate",
+    "great-panthers-occur",
+    "lovely-experts-do",
+    "nervous-deers-call",
+    "silver-lions-sit",
+    "smooth-suns-know",
+    "spotty-months-draw",
+    "swift-steaks-love",
+    "tired-paws-study"
   ]
 }
